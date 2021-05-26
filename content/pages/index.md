@@ -14,7 +14,9 @@ sections:
     image_alt: Hero placeholder image
     image_position: left
     has_background: true
-    subtitle: 'Fax ID :  03728325345109,  Reference: Scanned Document, Pages: 3, '
+    subtitle: >-
+      Fax ID :  03728325345109,  Reference: Scanned Document, Pages: 3, Types:
+      PDF
 seo:
   title: Stackbit Starter Theme
   description: The preview of the Starter theme
