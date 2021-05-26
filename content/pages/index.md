@@ -12,7 +12,7 @@ sections:
           https://523f682f4f1240499f4ba52935dd575d.svc.dynamics.com/t/r/ZPJeTaPLz4nRzgumHcSEaUOdv8gIPZZNdQxTGnHeiwc
         style: primary
         new_window: true
-    align: left
+    align: center
     image: /images/downloadi.png
     image_alt: Hero placeholder image
     image_position: left
