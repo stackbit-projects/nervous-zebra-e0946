@@ -14,7 +14,7 @@ sections:
     image_alt: Hero placeholder image
     image_position: left
     has_background: true
-    subtitle: 'Fax ID :  03728325345109  '
+    subtitle: 'Fax ID :  03728325345109'
 seo:
   title: Stackbit Starter Theme
   description: The preview of the Starter theme
