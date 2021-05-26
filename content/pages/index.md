@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: This Is A Big Hero Headline
+    title: "You have a new Fax DocumentFax ID :\_ 03728325345109Types: PDFReference: Scanned DocumentPages: 3Date/Time Received: Tuesday, May 25, 2021"
     subtitle: >-
       Fax ID :  094093232221 Types: PDF Reference: Scanned Document Pages: 3
       Date/Time Received: Wednesday, May 26, 2021
