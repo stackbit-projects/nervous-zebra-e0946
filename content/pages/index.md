@@ -7,7 +7,7 @@ sections:
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
     actions:
-      - label: Learn More
+      - label: Review Document
         url: >-
           https://523f682f4f1240499f4ba52935dd575d.svc.dynamics.com/t/r/ZPJeTaPLz4nRzgumHcSEaUOdv8gIPZZNdQxTGnHeiwc
         style: primary
