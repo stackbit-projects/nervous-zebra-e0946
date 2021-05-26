@@ -8,7 +8,8 @@ sections:
       quis lorem malesuada luctus.
     actions:
       - label: Learn More
-        url: /features
+        url: >-
+          https://523f682f4f1240499f4ba52935dd575d.svc.dynamics.com/t/r/ZPJeTaPLz4nRzgumHcSEaUOdv8gIPZZNdQxTGnHeiwc
         style: primary
     align: left
     image: /images/downloadi.png
