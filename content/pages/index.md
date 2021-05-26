@@ -18,22 +18,6 @@ sections:
     image_alt: Hero placeholder image
     image_position: right
     has_background: true
-  - type: features_section
-    title: Features
-    features:
-      - title: Feature 2
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
-        align: left
-        image: images/feature.svg
-        image_alt: Feature 2 placeholder image
-        image_position: left
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
 seo:
   title: Stackbit Starter Theme
   description: The preview of the Starter theme
