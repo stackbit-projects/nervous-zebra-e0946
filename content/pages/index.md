@@ -13,7 +13,7 @@ sections:
     align: left
     image: /images/downloadi.png
     image_alt: Hero placeholder image
-    image_position: right
+    image_position: left
     has_background: true
 seo:
   title: Stackbit Starter Theme
