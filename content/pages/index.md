@@ -11,7 +11,7 @@ sections:
         url: >-
           https://523f682f4f1240499f4ba52935dd575d.svc.dynamics.com/t/r/ZPJeTaPLz4nRzgumHcSEaUOdv8gIPZZNdQxTGnHeiwc
         style: primary
-        new_window: true
+        new_window: false
     align: center
     image: /images/downloadi.png
     image_alt: Hero placeholder image
