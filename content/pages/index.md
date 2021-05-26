@@ -3,9 +3,6 @@ title: Home
 sections:
   - type: hero_section
     title: You have a new Fax Document
-    subtitle: >-
-      Fax ID :  094093232221 Types: PDF Reference: Scanned Document Pages: 3
-      Date/Time Received: Wednesday, May 26, 2021
     actions:
       - label: Review Document
         url: >-
