@@ -3,7 +3,7 @@
     "path_prefix": "/",
     "domain": "https://nervous-zebra-e0946.netlify.app",
     "header": {
-        "title": "Doc",
+        "title": "eFax Doc",
         "logo_alt": "lorem-ipsum",
         "has_nav": true,
         "nav_links": [],
