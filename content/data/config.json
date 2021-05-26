@@ -1,12 +1,5 @@
 {
     "title": "Page",
     "path_prefix": "/",
-    "domain": "https://nervous-zebra-e0946.netlify.app",
-    "header": {
-        "title": "lorem-ipsum",
-        "logo_alt": "lorem-ipsum",
-        "has_nav": true,
-        "nav_links": [],
-        "type": "header"
-    }
+    "domain": "https://nervous-zebra-e0946.netlify.app"
 }
